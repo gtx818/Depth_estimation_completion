@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/VNL_Monocular_Depth_Prediction.iml" filepath="$PROJECT_DIR$/.idea/VNL_Monocular_Depth_Prediction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/depth_estimation_completion.iml" filepath="$PROJECT_DIR$/.idea/depth_estimation_completion.iml" />
     </modules>
   </component>
 </project>
